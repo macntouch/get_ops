@@ -1,0 +1,4 @@
+name|IP-address|username|pass|path
+station1|10.162.66.20|mtcl|Oubwef768uyYG|D:\scripts\get_OPS
+station2|10.162.66.24|mtcl|ihUGGViugew8w|D:\scripts\get_OPS
+station3|10.162.67.4|mtcl|ihOOGgiu242gu6|D:\scripts\get_OPS
